@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/<your-username>/sample-sonar-app.git'
+                    url: 'https://github.com/manishbad/sample-sonar-app.git'
             }
         }
 
