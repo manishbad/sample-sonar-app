@@ -16,3 +16,4 @@ def duplicate_logic_2(x):
     else:
         return x * 2
 
+
