@@ -9,8 +9,3 @@ def duplicate_logic_1(x):
         return x * 2
     else:
         return x * 2
-def duplicate_logic_1(x):
-    if x > 10:
-        return x * 2
-    else:
-        return x * 2
